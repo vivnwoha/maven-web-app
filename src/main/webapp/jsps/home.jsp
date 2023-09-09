@@ -7,8 +7,8 @@
 <title>acadalearning.com- Home Page</title>
 <link href="images/DP black.png" rel="icon">
 </head>
-</head>
-//<body>
+
+
 <h1>ACADA Learning</h1>
 <h2> Welcome to ACADA Learning. 
 	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
