@@ -1,4 +1,5 @@
 all: clean build
+
 build:
     @echo "Building the project..."
 
