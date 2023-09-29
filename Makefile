@@ -1,10 +1,10 @@
 all: clean build
 
 build:
-    @echo "Building the project..."
+	@echo "Building the project..."
 
 clean:
-    @echo "Cleaning up..."
+	@echo "Cleaning up..."
 
 test:
-    @echo "Running tests..."
+	@echo "Running tests..."
