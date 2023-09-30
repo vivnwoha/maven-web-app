@@ -9,7 +9,9 @@ define my_function
 	@echo "  - Command 2"
 endef
 
+$(call my_function)
+
 # Target that uses the function
 my_target:
 	@echo "Running my_target"
-	$(call my_function)
+	#$(call my_function)
