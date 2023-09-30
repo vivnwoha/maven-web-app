@@ -13,4 +13,3 @@ endef
 my_target:
 	@echo "Running my_target"
 	$(call my_function)
-
